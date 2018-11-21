@@ -1,0 +1,14 @@
+uuid: 572c78f6-32dc-4f92-af5e-d7e24276af0b
+name: mjbernha-d8-circle-project
+mail: mjbernha@mit.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
