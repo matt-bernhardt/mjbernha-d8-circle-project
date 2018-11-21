@@ -1,6 +1,6 @@
 uuid: 392d5f9e-a111-454b-88b2-f62afc120e9d
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.tools
